@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [ConnectionStringsStorage.cs](./CS/DXWebApplication26/Storage/ConnectionStringsStorage.cs) (VB: [ConnectionStringsStorage.vb](./VB/DXWebApplication26/Storage/ConnectionStringsStorage.vb))
-* [MyJsonConnection.cs](./CS/DXWebApplication26/Model/MyJsonConnection.cs) (VB: [MyJsonConnection.vb](./VB/DXWebApplication26/Model/MyJsonConnection.vb))
+* [MyJsonConnection.cs](./CS/DXWebApplication26/Models/MyJsonConnection.cs) (VB: [MyJsonConnection.vb](./VB/DXWebApplication26/Models/MyJsonConnection.vb))
 * [Global.asax.cs](./CS/DXWebApplication26/Global.asax.cs) (VB: [Global.asax.vb](./VB/DXWebApplication26/Global.asax.vb))
 
 <!-- default file list end -->
