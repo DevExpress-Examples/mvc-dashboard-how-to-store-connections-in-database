@@ -4,9 +4,9 @@
 * [ConnectionStringsStorage.cs](./CS/DXWebApplication26/Storage/ConnectionStringsStorage.cs) (VB: [ConnectionStringsStorage.vb](./VB/DXWebApplication26/Storage/ConnectionStringsStorage.vb))
 * [MyJsonConnection.cs](./CS/DXWebApplication26/Models/MyJsonConnection.cs) (VB: [MyJsonConnection.vb](./VB/DXWebApplication26/Models/MyJsonConnection.vb))
 * [Global.asax.cs](./CS/DXWebApplication26/Global.asax.cs) (VB: [Global.asax.vb](./VB/DXWebApplication26/Global.asax.vb))
-
 <!-- default file list end -->
-# MVC Dashboard - How to store JSON connections in a database
+
+# Dashboard for MVC - How to store JSON connections in a database
 
 This example demonstrates how to create new JSON connections in MVC Dashboard's Data Source wizard and store them in a database.
 
